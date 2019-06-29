@@ -1,0 +1,100 @@
+header:
+  author: Kevin F. Konrad
+
+contact:
+  email: info@kevinkonrad.de
+  message_on_success: |
+    You sent mail!
+
+sidebar:
+  title: Welcome to my homepage, I'm
+  highlightedText: Kevin
+  description: Coder, Admin, Nerd.
+  displayPicture: portrait.jpg
+  # works with all free FontAwesome Icons and all 4 icon types brand, regular, light, bold
+  social:
+    facebook:
+      brand: https://facebook.com/<yourusername>
+    github:
+      brand: https://github.com/kfkonrad
+    envelope:
+      solid: mailto:info@kevinkonrad.de
+
+contents:
+  - type: progressbars
+    title: Technologies
+    color: orange
+    # color: green
+    entries:
+      fish-shell: 95
+      Python: 85
+      Bash: 75
+      Ruby: 65
+      Docker: 88
+      'Cloud Foundry': 70
+
+  - type: cards
+    title: Projects
+    color: purple
+    entries:
+      - title: Lorem
+        icon:
+          code: solid
+        description: |
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel
+          diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor.
+      - title: Ipsum dolor
+        icon:
+          terminal: solid
+        description: |
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel
+          diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor.
+      - title: Sid amed
+        icon:
+          laptop-code: solid
+        description: |
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel
+          diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor.
+      - title: Sid amed
+        icon:
+          shield-alt: solid
+        description: |
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel
+          diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor.
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel
+          diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor.
+      - title: Sid amed
+        icon:
+          microchip: solid
+        description: |
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel
+          diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor.
+      - title: Sid amed
+        description: |
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel.
+      - title: Sid amed
+        description: |
+          Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel
+          diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor.
+
+  - type: timeline
+    title: Experience
+    color: green
+    entries:
+      - title: IT|S|CARE
+        subtitle: Master of None
+        timeperiod: Aug 2014 - Jun 2015
+        website: https://itscare.de
+        description: |
+          Working student (WIP)
+      - title: Hochschule Kaiserlautern
+        subtitle: Master of None
+        timeperiod: Sep 2016 - Feb 2018
+        website: https://www.hs-kl.de
+        description: |
+          Erst Hiwi, dann nochmal Hiwi. Nur dann mit mehr zu tun und mehr Stunden
+      - title: anynines
+        timeperiod: Mar 2018 - Present
+        website: https://www.anynines.com
+        description: |
+          Working student (WIP)

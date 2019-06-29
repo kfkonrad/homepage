@@ -1,0 +1,4 @@
+baseURL = "http://kevinkonrad.de/"
+languageCode = "de-de"
+title = "Kevin F. Konrad"
+theme = "hugo-bonui"

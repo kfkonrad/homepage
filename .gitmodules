@@ -1,0 +1,3 @@
+[submodule "themes/hugo-bonui"]
+	path = themes/hugo-bonui
+	url = git@github.com:kfkonrad/hugo-bonui.git
